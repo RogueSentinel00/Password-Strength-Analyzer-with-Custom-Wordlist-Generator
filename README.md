@@ -1,1 +1,1 @@
-# 4.-Password-Strength-Analyzer-with-Custom-Wordlist-Generator
+Password-Strength-Analyzer-with-Custom-Wordlist-Generator
